@@ -1,6 +1,5 @@
 # Obstacle Detection and Avoidance
 
-**Warning:** This project is currently not maintained.
 > We'd welcome community support to maintain and update the project.
 > If you're interested in contributing, please contact the [PX4 development team through normal channels](http://docs.px4.io/main/en/contribute/support.html#forums-and-chat).
 
